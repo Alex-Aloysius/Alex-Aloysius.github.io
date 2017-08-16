@@ -1,6 +1,12 @@
 img {
+  height: 400px;
+  width: 400px;
+  border-radius: 8px;
+  
+}
+
+iframe{
   height: 500px;
   width: 500px;
   border-radius: 8px;
-  
 }
