@@ -41,6 +41,17 @@ iframe {
   border-radius: 8px;
 }
 
+ul {
+  text-align: center;
+  white-space: nowrap;	
+}
+
+li {
+  display: inline;	
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
