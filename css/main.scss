@@ -35,6 +35,12 @@ img {
   
 }
 
+iframe {
+  height: 300px;
+  width: 300px;
+  border-radius: 8px;
+}
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
