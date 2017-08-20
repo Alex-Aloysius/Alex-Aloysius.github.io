@@ -32,10 +32,11 @@ h1 {
   text-align: center;
 }
 
-img {
+.image_items {
   height: 250px;
   width: 250px;
   border-radius: 8px;
+  float: left;
 }
 
 iframe {
