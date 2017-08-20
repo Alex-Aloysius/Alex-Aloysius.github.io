@@ -34,10 +34,12 @@ h1 {
 
 .image-items {
   margin: 20px;
-  display: inline-block;
+  display: inline;
 }
 
-
+.image-container {
+  text-align: left;
+}
 
 img{
   height: 320px;
