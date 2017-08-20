@@ -34,7 +34,8 @@ h1 {
 
 .image_items {
   margin: 20px;
-  float: left;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 img{
