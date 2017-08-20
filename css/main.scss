@@ -33,10 +33,14 @@ h1 {
 }
 
 .image_items {
+  margin: 20px;
+  float: left;
+}
+
+img{
   height: 250px;
   width: 250px;
   border-radius: 8px;
-  float: left;
 }
 
 iframe {
