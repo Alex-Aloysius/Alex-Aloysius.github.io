@@ -57,6 +57,10 @@ li {
   margin-left: 20px;
 }
 
+header {
+  background-image: -webkit-linear-gradient(#D84FF3,#3274E4); 
+}
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
