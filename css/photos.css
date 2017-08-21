@@ -15,13 +15,20 @@ h1{
     font-size: 30px;
 }
 
-img {
+.image-items {
   margin: 20px 20px;
-  position: relative;
-  height: 300px;
-  width: 300px;
+  display: inline-block;
+}
+
+.image-container {
+  text-align: left;
+}
+
+img{
+  height: 320px;
+  width: 320px;
   border-radius: 8px;
-  display: block;
+  position: relative;
 }
 
 .container{
@@ -39,7 +46,7 @@ iframe{
 ul {
   display: inline;
   white-space: nowrap;	
-}
+} 
 
 li {
   width:100%;
