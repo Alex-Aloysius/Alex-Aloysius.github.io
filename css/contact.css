@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+
+body {
+    font-size: 120%;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/82/90/aa/8290aa221a5e2e37814b5d49789d8da9.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+
+
+h1{
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline; 
+}
+
+header {
+	width: 100%;
+	padding: 20px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(#D84FF3,#3274E4); 
+	border: 90%;
+	border-color: black;
+}
