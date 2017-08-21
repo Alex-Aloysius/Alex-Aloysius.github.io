@@ -12,7 +12,7 @@ body {
 
 h1{
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .image-items {
@@ -72,11 +72,9 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
 
-/*/*
+
+/*
 .menu ul {
   display: inline;
   text-align: center;
