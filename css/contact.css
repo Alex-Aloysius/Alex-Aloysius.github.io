@@ -17,7 +17,7 @@ h1{
 }
 
 h2 {
-  font-size: 50px;
+  font-size: 30px;
   color: white;
 }
 
@@ -31,7 +31,7 @@ a:hover {
 }
 
 address {
-  font-size: 50px;
+  font-size: 25px;
   text-align: left;
   color: white;
 }
