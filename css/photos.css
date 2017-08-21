@@ -66,12 +66,21 @@ li {
   margin-right: 20px;
   margin-left: 20px;
 }
-
+/*
 a {
   text-decoration: none;	
 }
 
-/*
+a.hover {
+    color: red;
+    text-decoration: none;
+}
+
+a.hover:hover {
+    text-decoration: underline;
+}
+
+
 .menu ul {
   display: inline;
   text-align: center;
