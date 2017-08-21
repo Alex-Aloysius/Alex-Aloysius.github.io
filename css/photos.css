@@ -1,0 +1,95 @@
+* {
+	margin: 0px;
+	padding:0px;
+}
+body {
+	font-size: 120%;
+	background-image: url("https://images.designtrends.com/wp-content/uploads/2016/01/06095834/Colourful-Spring-Background.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+
+
+h1{
+	text-align: center;
+    font-size: 30px;
+}
+
+img {
+  margin: 20px 20px;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  border-radius: 8px;
+  display: block;
+}
+
+.container{
+  
+}
+
+iframe{
+  margin: 20px 20px;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  display: block;
+}
+
+ul {
+  display: inline;
+  white-space: nowrap;	
+}
+
+li {
+  width:100%;
+  display: inline;	
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;	
+}
+
+/*
+.menu ul {
+  display: inline;
+  text-align: center;
+  white-space: nowrap;	
+  list-style-type: none;
+}
+
+.menu li {
+  text-align: center;
+  display: inline;	
+  margin-right: 20px;
+  margin-left: 20px;
+  text-decoration:none;
+}*/
+
+
+.menu{
+  text-align: center;
+  font-size: 20px;
+}
+
+header {
+	width: 100%;
+	padding: 20px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(#D84FF3,#3274E4); 
+	border: 90%;
+	border-color: black;
+}
+
+form {
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #80C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+
+	
