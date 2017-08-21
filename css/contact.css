@@ -22,7 +22,13 @@ a {
 }
 
 a:hover {
-   text-decoration: underline; 
+  text-decoration: underline; 
+}
+
+address {
+  font-size: 20px;
+  text-align: left;
+  color: white;
 }
 
 header {
