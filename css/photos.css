@@ -1,17 +1,17 @@
 * {
-	margin: 0px;
-	padding:0px;
+    margin: 0px;
+    padding:0px;
 }
 body {
-	font-size: 120%;
-	background-image: url("https://images.designtrends.com/wp-content/uploads/2016/01/06095834/Colourful-Spring-Background.jpg"); 
+    font-size: 120%;
+    background-image: url("https://images.designtrends.com/wp-content/uploads/2016/01/06095834/Colourful-Spring-Background.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;	
 }
 
 
 h1{
-	text-align: center;
+    text-align: center;
     font-size: 30px;
 }
 
@@ -66,9 +66,9 @@ li {
   margin-right: 20px;
   margin-left: 20px;
 }
-/*
+
 a {
-  text-decoration: none;	
+  text-color: black;
 }
 
 a.hover {
@@ -80,7 +80,7 @@ a.hover:hover {
     text-decoration: underline;
 }
 
-
+/*/*
 .menu ul {
   display: inline;
   text-align: center;
