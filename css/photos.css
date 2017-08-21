@@ -68,15 +68,11 @@ li {
 }
 
 a {
-  text-color: black;
+  color: black;
+  text-decoration: none;
 }
 
-a.hover {
-    color: red;
-    text-decoration: none;
-}
-
-a.hover:hover {
+a:hover {
     text-decoration: underline;
 }
 
