@@ -16,6 +16,11 @@ h1{
     font-size: 20px;
 }
 
+h2 {
+  font-size: 50px;
+  color: white;
+}
+
 a {
   color: white;
   text-decoration: none;
@@ -26,7 +31,7 @@ a:hover {
 }
 
 address {
-  font-size: 20px;
+  font-size: 50px;
   text-align: left;
   color: white;
 }
