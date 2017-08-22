@@ -42,6 +42,11 @@ a:hover {
   text-decoration: underline; 
 }
 
+.contact_info {
+  text-align: center;
+  margin: 50 px;
+}
+
 address {
   font-size: 25px;
   text-align: left;
