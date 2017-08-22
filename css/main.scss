@@ -41,6 +41,10 @@ h1 {
   text-align: left;
 }
 
+p {
+  color: white;
+}
+
 img{
   height: 320px;
   width: 320px;
@@ -48,7 +52,8 @@ img{
 }
 
 .introduction {
-  border: 2px solid black; 
+  border: 1px solid white; 
+  border-radius: 8px;
 }
 
 .video-items {
@@ -79,7 +84,7 @@ header {
 }
 
 body {
-  background-image: url("http://www.solidbackgrounds.com/images/2560x1440/2560x1440-light-blue-solid-color-background.jpg"); 
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/82/90/aa/8290aa221a5e2e37814b5d49789d8da9.jpg"); 
 }
 
 
