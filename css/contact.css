@@ -44,7 +44,7 @@ a:hover {
 
 .contact_info {
   text-align: center;
-  margin: 50 px;
+  white-space: nowrap;	
 }
 
 address {
